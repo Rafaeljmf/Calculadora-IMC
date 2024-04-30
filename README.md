@@ -1,6 +1,6 @@
 ## Descrição
-Projeto de Calculadora de Indice de Massa Coprporal
+Projeto de Calculadora de Indice de Massa Corporal
 (Calculadora IMC)
 
 ## Objetivo
-Obter experiencia e desenvolver habilidades praitcas em HTML, CSS e JavaScript
+Obter experiencia e desenvolver habilidades praticas em HTML, CSS e JavaScript
